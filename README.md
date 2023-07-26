@@ -21,6 +21,6 @@ LogAnalysisAssignment is a command-line application that analyzes log file. The 
 
 1. Ensure you have Node.js installed on your system.
 2. Run the log analysis tool by providing the path to the log file as a command-line argument:
-   `node log_analysis.js \\path_to_log_file`
- example node log_analysis.js prod-api-prod-out.log
+   `node log_analysis.js path_to_log_file`
+ example      **node log_analysis.js prod-api-prod-out.log**
 

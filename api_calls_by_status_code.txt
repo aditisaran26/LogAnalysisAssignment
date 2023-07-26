@@ -1,0 +1,9 @@
+Status	Status Code	Call Count
+OK	200	53627
+Partial Content	206	519
+Not Modified	304	13418
+Bad Request	400	7
+Unauthorized	401	4
+Not Found	404	46771
+Unprocessable Entity	422	303
+Server Error	500	1286
